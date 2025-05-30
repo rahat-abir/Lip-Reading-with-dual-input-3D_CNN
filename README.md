@@ -49,10 +49,3 @@ A dual-path 3D CNN processes two parallel inputs from the same video to capture 
 - Visualizations for model performance and training dynamics  
 
 ---
-
-## 🚀 Future Improvements
-- Expand dataset with more word classes  
-- Integrate attention mechanisms for temporal focus  
-- Deploy as a real-time lip reading application  
-
----
